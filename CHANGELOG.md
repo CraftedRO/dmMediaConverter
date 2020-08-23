@@ -73,9 +73,11 @@ On Windows i bundle the up with ffmpeg complied for x64, a little more speed. If
 - Some bugs fixed
 - Updated FFMpeg binary with latest version
 
-2014.10.16 - v1.4.0 - Internal release
+2014.10.16 - v1.4.0
+- Internal release
 
-2014.09.29 - v1.3.0 - Internal release
+2014.09.29 - v1.3.0
+- Internal release
 
 2014.09.16 - v1.2.0
 - Bug fixing
